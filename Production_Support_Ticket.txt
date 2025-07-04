@@ -1,0 +1,1 @@
+Update the application's file upload limit from the current setting to 10MB to allow users to upload larger files.
