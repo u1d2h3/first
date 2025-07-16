@@ -1,0 +1,10 @@
+ A RAG application combines retrieval-based and generation-based models to produce 
+more accurate and contextually relevant responses. It retrieves relevant documents from 
+a knowledge base and uses a language model to generate responses based on the retrieved 
+information.
+
+ Ollama provides robust language models that can be integrated with Langflow's 
+flexible workflow management system. Using Ollama with Langflow allows you to leverage 
+powerful language models in a streamlined, configurable environment for building RAG 
+applications.
+
